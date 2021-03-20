@@ -11,7 +11,11 @@
   Pra iniciar minha carreira como Dev Jr fiz um curso intensivo com mais de 1000h de aulas/atividades na Labenu.
   Faltam duas semanas pro curso terminar e estou ansiosa pra começar a trabalhar na área.
 
-
+### Contato
+  📧 bianca.cms@outlook.com.br
+  </br>
+  Linkdn: <a href="https://www.linkedin.com/in/bianca-cmendes/" target="_blank">***Bianca Mendes***</a>
+  
 
 
 <h3 align="left">Tecnologias:</h3>
