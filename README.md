@@ -1,5 +1,5 @@
 <h1 align="center">Oie, me chamo Bianca Mendes👓</h1>
-<h3 align="center">Junior Fullstack Web Development</h3>
+<h3 align="center">Junior Full Stack Web Development</h3>
 
 
 - 💻 Atualmente estou finalizando o curso de Web Fullstack Labenu
