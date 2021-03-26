@@ -4,7 +4,7 @@
 
 - 💻 Atualmente estou finalizando o curso de Web Fullstack Labenu
 - 📚 Estou estudando as tecnologias: HTML, CSS, JS, React, TS, NodeJS, MySQL
-- 👯 Ansiosa pra começar a trabalhar como desenvolvedora
+- 🎆 Ansiosa pra começar a trabalhar como desenvolvedora
 
 ## Um pouquinho sobre mim...
   Sempre trabalhei com vestuário e com os caminhos da vida conheci a programação e me apaixonei por essa sopa de letrinhas ❤
@@ -14,7 +14,7 @@
 ### Contato
   📧 bianca.cms@outlook.com.br
   </br>
-  Linkdn: <a href="https://www.linkedin.com/in/bianca-cmendes/" target="_blank">***Bianca Mendes***</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/bianca-cmendes/" target="_blank">***Bianca Mendes***</a>
   
 
 
